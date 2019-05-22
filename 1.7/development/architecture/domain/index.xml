@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain on PrestaShop Developer Documentation</title>
+    <link>https://devdocs.prestashop.com/1.7/development/architecture/domain/</link>
+    <description>Recent content in Domain on PrestaShop Developer Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 18 Apr 2019 17:15:35 +0300</lastBuildDate>
+    
+	<atom:link href="https://devdocs.prestashop.com/1.7/development/architecture/domain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Transfer Objects</title>
+      <link>https://devdocs.prestashop.com/1.7/development/architecture/domain/data-transfer-objects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devdocs.prestashop.com/1.7/development/architecture/domain/data-transfer-objects/</guid>
+      <description>Data Transfer Objects PrestaShop is using Data Transfer Objects (DTO in short) in its codebase, in this section you learn how you can benefit from using DTOs as well.
+What is Data Transfer Object? Data Transfer Object is object (e.g. UserData) that contains data in a structured format. This means that DTO usually comes with getter methods or public properties for accessing it&amp;rsquo;s data. The main benefit of using DTOs is that you know what data it has.</description>
+    </item>
+    
+  </channel>
+</rss>
